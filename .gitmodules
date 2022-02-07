@@ -1,0 +1,3 @@
+[submodule "src/New Job Task/fintech-app"]
+    path = src/New Job Task/fintech-app
+    url = https://github.com/Shakil5161/thesis.git
